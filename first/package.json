@@ -8,7 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "moment": "^2.29.1"
+  "devDependencies": {},
+  "dependencies": {
+    "luxon": "^2.0.2"
   }
 }
